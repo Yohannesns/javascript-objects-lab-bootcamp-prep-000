@@ -5,7 +5,7 @@ function updateObjectWithKeyAndValue(object,key,value){
       return recipes
 }
 function updateObjectWithKeyAndValue(object,key,value){
-  recipes.breakfast = 'piza'
+  recipes.key = value
   return recipes
 
 }
